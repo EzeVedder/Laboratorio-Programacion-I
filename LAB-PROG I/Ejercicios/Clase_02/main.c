@@ -10,15 +10,15 @@ int main()
     int i;//contador
 
     printf("Ingrese un numero: ");
-    scanf("&d",auxInt);
+    scanf("%d",&auxInt);
     minimo = auxInt;
     maximo = auxInt;
-    acumulador auxInt;
+    acumulador = auxInt;
 
     for(i=0;i<4;i++)
     {
         printf("Ingrese un numero: ");
-        scanf("&d",auxInt);
+        scanf("%d",&auxInt);
         acumulador = acumulador+auxInt;
 
         if(auxInt>maximo)
@@ -30,5 +30,8 @@ int main()
             minimo = auxInt;
         }
     }
+
+    printf("El numero max ingresado es %d,\nEl numero min ingresado es: %d y\nEl acumulado es %d",maximo,minimo,acumulador/5);
+
     return 0;
 }

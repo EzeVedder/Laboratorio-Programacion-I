@@ -37,6 +37,7 @@ int main()
             }
         }
         teclaIngresada = pedirCaracter("Desea seguir jugando? s/n\n");
+        system("cls");
     }
 
     return 0;

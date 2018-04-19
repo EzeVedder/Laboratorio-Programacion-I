@@ -21,7 +21,7 @@ int main()
     int cantidad;
 
     cantidad = contarPares(vector, 5);
-    indexLetra = buscarChar(letras,5,'m');
+    indexLetra = buscarChar(letras,5,'a');
     if(indexLetra == -1)
     {
         printf("No se encontro el caracter \n");

@@ -1,5 +1,47 @@
 -----------VECTORES PARALELOS--------19/04/2018
 
+-legajo--->pos 0 = 100--->declarado como int
+
+-nombre--->pos 0 = juan
+
+-nota1---->pos 0 = 8----->declarado como int
+
+-nota2---->pos 0 = 8----->declarado como int
+
+-promedio->pos 0 = 8----->declarado como float
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*-----------USO DE GIT----------------*/
 
 
@@ -35,3 +77,9 @@ SECTORES IMPORTANTES--
 
 -POR CONSOLA---->GIT BASH 
 	-GIT CLONE -->le pasamos la url del repositorio a clonar
+	-GIT STATUS-----> ES EL RESCAN DEL REPOSITORIO
+	-GIT ADD.  ----->AGREGAR EL ARCHIVO/S (LA CONSOLA NO NOS DICE SI LO AGREGO O NO)
+	-GIT STATUS----->PARA VER SI SE AGREGO.
+	-GIT COMMIT - m ----->COMENTAR EL CAMBIO.
+	-GIT PUSH------->ORIGIN--->USUARIO GITHUB--->PASS.
+	

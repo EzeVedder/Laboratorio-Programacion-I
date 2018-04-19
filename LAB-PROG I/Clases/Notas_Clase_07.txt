@@ -2,7 +2,7 @@
 
 -legajo--->pos 0 = 100--->declarado como int
 
--nombre--->pos 0 = juan
+-nombre--->pos 0 = juan-->declarado como char
 
 -nota1---->pos 0 = 8----->declarado como int
 

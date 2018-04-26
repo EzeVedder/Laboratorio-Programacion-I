@@ -2,18 +2,6 @@
 
 ORGANIZAR LA INFORMACION-->CREAR VARIABLES DEL TIPO DE DATO REPETITIVO
 
-
-
-
-
-
-
-
-
-
-
-
-
 A DIFERENCIA DE LOS VECTORES, NO LLEVA UNA SEGUNDA DIMENSION.
 
 cada vez que se pone un tipo de dato se pone struc eAlumno....

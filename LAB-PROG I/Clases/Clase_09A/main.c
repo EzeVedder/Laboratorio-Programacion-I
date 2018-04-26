@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define T 5
+#define T 2
 
 typedef struct//58 bytes de memoria para cada alumno INT 8BYTES CHAR 1 BYTE FLOAT 4BYTE
 {
